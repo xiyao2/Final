@@ -17,9 +17,16 @@ This prototype is designed for children and anyone who enjoys a playful approach
 
 ### Concept Sketches
 ![image](https://github.com/user-attachments/assets/5e9b548f-4f93-4b7e-9a69-04ef01d63393)
+![image](https://github.com/user-attachments/assets/f71e5083-c1d6-40fa-8399-acbed5ebaa1d)
+
 
 ### Photo(s)
-
+![image](https://github.com/user-attachments/assets/2090f8a1-86e5-4037-8a9c-f7f506fee350)
+![image](https://github.com/user-attachments/assets/ee593bb8-0ba2-4938-a22f-61f0842cb3f3)
+![image](https://github.com/user-attachments/assets/5618538f-f79d-484e-966b-6e6ee6b4c3b8)
+![image](https://github.com/user-attachments/assets/dab6c339-91a5-470e-a35d-4161c51d39cd)
+![image](https://github.com/user-attachments/assets/cf87218a-8568-44bf-9a3b-48b8b359c8e0)
+![image](https://github.com/user-attachments/assets/549971d4-db25-4cca-8d7e-038d7d7ba745)
 
 
 ### Schematic or Wiring Diagram
@@ -28,17 +35,19 @@ ATOM board Pin 2 → Servo motor
 ATOM board Pin 3 → NeoPixel LEDs
 
 ### Software
+![image](https://github.com/user-attachments/assets/51cebbf3-8190-4e02-95e3-db3e0ff6bdf5)
+![image](https://github.com/user-attachments/assets/0120111b-2677-4088-bbec-63624ee2f315)
 
 **ProtoPie Interface**:  
 ProtoPie was used to create the interactive digital interface where the dog character reacts to the deposited coins. The interface displays animations of the dog wagging its tail, along with floating money as a visual reward. The interface is connected to the hardware and triggers actions such as the dog’s reactions.
 
-- **ProtoPie Setup**: Screenshots of your ProtoPie interface showing the dog’s animations and the floating money effect.
-- **Interaction Flow**: Explain how the ProtoPie interface connects with the hardware, such as triggering the animation when a coin is detected.
+- **ProtoPie Setup**: 
+![image](https://github.com/user-attachments/assets/fa0ba272-d437-4588-9b65-6d2cee6ea9a1)
+![image](https://github.com/user-attachments/assets/5f6efd41-2f02-4ce1-9f8e-1f88a1ca4119)
 
-#### Screenshots of ProtoPie Interface
+- **Interaction Flow**:
 
-![ProtoPie Screenshot](path/to/protopie_screenshot.jpg)  
-_Include screenshots that demonstrate the interaction flow in ProtoPie._
+![image](https://github.com/user-attachments/assets/413400a8-573c-419f-8e69-1fa61a791e9f)
 
 ### Integrations
 
@@ -54,18 +63,16 @@ The physical design of the Puppy Bank is based on a small snow house with a dog 
 - **3D printed enclosure**: A small house that houses the dog and all the electronics.
 - **Servo mount**: A mount inside the house that holds the servo motor and ensures it moves smoothly when triggered.
 
-#### Photos of the Enclosure Design
-![Enclosure Design](path/to/enclosure_design.jpg)  
-_Include photos of the 3D printed house, the servo mount, and any other mechanical elements used in the project._
-
-### Project Outcome Results
-
 ### Results  
 The final project successfully integrates the interactive puppy character with the physical bank. The puppy reacts to each coin inserted by displaying a happy animation and showing floating money. The interface and hardware work seamlessly, providing a fun and engaging user experience.
 
 #### Photos and Video:  
-![Prototype in Use](path/to/prototype_in_use.jpg)  
-_Include images of the completed prototype in use and a video showing how the system works. You can also link to a video hosted on YouTube or other platforms if needed._
+
+https://github.com/user-attachments/assets/78d4d37f-b40a-4281-8f69-2bc83fc23913
+
+https://github.com/user-attachments/assets/ef94c665-b276-44e3-9916-d143710dd347
+
+https://github.com/user-attachments/assets/cff3d9fb-c937-4907-840b-c837c7a14e18
 
 ---
 
